@@ -1,0 +1,89 @@
+{
+  "nickname": "",
+  "finance": {
+    "total": {
+      "sum": 0,
+      "donators_count": 0,
+      "regular_donators_count": 0
+    },
+    "periods": [
+      {
+        "earnings": {
+          "year_sum": 0,
+          "six_month_sum": 0,
+          "last_month_sum": 0
+        },
+        "graph": {
+          "year": {
+            "January": 1234,
+            "February": 5678,
+            "March": 9876,
+            "April": 4321,
+            "May": 8765,
+            "June": 2345,
+            "July": 6789,
+            "August": 3456,
+            "September": 7890,
+            "October": 2109,
+            "November": 6543,
+            "December": 987
+          },
+          "half_year": {
+            "January": 2345,
+            "February": 432,
+            "March": 1234,
+            "April": 3456,
+            "May": 987,
+            "June": 4567
+          },
+          "month": {
+            "1": 234,
+            "2": 567,
+            "3": 789,
+            "4": 123,
+            "5": 456,
+            "6": 789,
+            "7": 234,
+            "8": 567,
+            "9": 890,
+            "10": 123,
+            "11": 456,
+            "12": 789,
+            "13": 234,
+            "14": 567,
+            "15": 890,
+            "16": 123,
+            "17": 456,
+            "18": 789,
+            "19": 234,
+            "20": 567,
+            "21": 890,
+            "22": 123,
+            "23": 456,
+            "24": 789,
+            "25": 234,
+            "26": 567,
+            "27": 890,
+            "28": 123,
+            "29": 456,
+            "30": 789,
+            "31": 234
+          }
+        }
+      }
+    ]
+  },
+  "gift_settings": {
+    "small_gift": null,
+    "medium_gift": null,
+    "big_gift": null
+  },
+  "gift_stats": {
+    "small_gift_count": 0,
+    "small_gift_sum": 0,
+    "small_medium_count": 0,
+    "small_medium_sum": 0,
+    "small_big_count": 0,
+    "small_big_sum": 0
+  }
+}
