@@ -1,10 +1,8 @@
-<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). -->
+## Test assignment for Codify
 
-This is a Graph component built with Next.js, Tailwind and Chart.js.
+Graph component built with Next.js, Tailwind and Chart.js.
 
 ## Run locally
-
-First, run the development server:
 
 ```bash
 npm run dev
@@ -13,6 +11,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## See online
+## Or see online
 
-https://codify-test-nes4.vercel.app/
+[https://codify-test-beta.vercel.app/](https://codify-test-beta.vercel.app/)
